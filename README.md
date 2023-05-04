@@ -15,7 +15,9 @@ The first player to reach 20 points on GLOBAL score wins the game.
 
 How to Play
 visit: https://ashutosh-sg.github.io/JavaScript-Dice-Game/
+
 OR
+
 Clone or download the repository to your local machine.
 Open the index.html file in your browser.
 Click the "New Game" button to start a new game.
