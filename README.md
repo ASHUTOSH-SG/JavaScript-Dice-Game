@@ -13,7 +13,9 @@ The player can choose to 'Hold', which means that their ROUND score gets added t
 The first player to reach 20 points on GLOBAL score wins the game.
 
 
-How to Play
+
+How to Play ?
+
 visit: https://ashutosh-sg.github.io/JavaScript-Dice-Game/
 
 OR
