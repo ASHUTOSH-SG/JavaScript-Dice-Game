@@ -18,5 +18,6 @@ Roll the dice by clicking the "Roll Dice" button.
 To hold your current score and add it to your total score, click the "Hold" button.
 The game will automatically switch to the next player's turn if you roll a 1 or click the "Hold" button.
 The first player to reach 20 points on GLOBAL score wins the game.
+
 Credits
 The game code was written by taking reference of Jonas Schmedtmann's course "The Complete JavaScript Course 2023: From Zero to Expert!".
